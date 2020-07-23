@@ -1,0 +1,19 @@
+{
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "description": "Sample NodeJS Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elastic2ls-com/sample-nodejs.git"
+  },
+  "author": "Alexander Wiechert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elastic2ls-com/sample-nodejs/issues"
+  },
+  "homepage": "https://github.com/elastic2ls-com/sample-nodejs#readme"
+}
